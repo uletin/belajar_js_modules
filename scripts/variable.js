@@ -1,1 +1,1 @@
-const name = "Eko Kurniawan Khannedy"
+export const name = "Eko Kurniawan Khannedy"
